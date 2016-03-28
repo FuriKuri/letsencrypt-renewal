@@ -1,0 +1,1 @@
+0 0 1 JAN,MAR,MAY,JUL,SEP,NOV * root /usr/bin/renew‑letsencrypt.sh >> /var/log/cron.log 2>&1
