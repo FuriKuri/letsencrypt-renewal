@@ -12,4 +12,5 @@ if [ "$LE_STATUS" != 0 ]; then
     cat /var/log/letsencrypt/renew.log
     exit 1
 fi
+
 echo "Automated renewal done"
